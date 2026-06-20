@@ -1,5 +1,5 @@
 name: Build, Push Docker Image & Deploy to EC2 Semana 5
- 
+
 on:
   push:
     branches:
